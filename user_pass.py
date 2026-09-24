@@ -15,7 +15,7 @@ else:
     print("Oops, your password is not correct", "❌")
 if 18 < age <= 90:
     if 18 < age <= 50:
-        print("You are allowed to enter", "✔")
+        print("Your age is acceptable", "✔")
     else:
         print("Damn, you look younger", "😉")
 else:
